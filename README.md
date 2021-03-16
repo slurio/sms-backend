@@ -1,25 +1,4 @@
-# README
+# Backend for blog post on sending SMS messages using Twilio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# sms-backend
+## Installation
+Set up the [frontend](https://github.com/slurio/sms-frontend) by running 'npm install'. Then on the backend run 'rails s' and on frontend run 'npm start'.
